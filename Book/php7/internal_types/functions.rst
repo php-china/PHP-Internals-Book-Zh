@@ -1,4 +1,4 @@
 Functions: zend_function
 ========================
 
-Here we detail how functions work in PHP.
+接下来介绍函数在PHP中是如何工作的。

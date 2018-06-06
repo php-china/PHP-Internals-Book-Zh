@@ -8,8 +8,9 @@ Zvals
 
 In this chapter the "zval" data structure, which is used to represent PHP values, is introduced. We explain the concepts
 behind zvals and how to use them in extension code.
+这一单元主要介绍"zval"结构类型，"zval"结构用来代表PHP变量，在本单元中
 
-Contents:
+内容:
 
 .. toctree::
     :maxdepth: 2

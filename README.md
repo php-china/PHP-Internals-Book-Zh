@@ -17,7 +17,7 @@ PHP-Internals-Book中文版
 
  * 文本行最大长度为120个字符.
  * The maximum line-width for code is 98 characters. Including the four space indentation this would be a limit of 102 characters. This is a hard limit that prevents overflows in the PDF version.
- * Indentation uses four spaces.
+ * 使用4个空格进行对齐.
  * Lines should not have trailing whitespace.
  * Punctuation like `?`, `!` or `:` should directly follow after the word (e.g. `foo:` rather than `foo :`).
 

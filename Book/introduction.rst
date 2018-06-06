@@ -4,12 +4,13 @@ Introduction
 This book is a collaborative effort between several PHP developers to better document and describe how PHP works
 internally.
 
-There are three primary goals of this book:
+本书有三个主要目的：
 
  * Document and describe how PHP internals work.
  * Document and describe how to extend the language with extensions.
  * Document and describe how you can interact with the community to develop PHP itself.
 
+本书主要针对有C语言经验的开发者，但是也尽可能地优化内容和补充所需背景知识，所以对C语言不是很熟悉的人，也可以理解本书的内容。
 This book is primarily targeted at developers who have experience in the C programming language. However, where-ever
 possible we will attempt to distill the information and summarize it so that developers who don't know C well, will
 still be able to understand the content.
